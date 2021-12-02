@@ -1,0 +1,27 @@
+* {
+    color: white;
+    padding: 5px;
+    
+}
+h1 {
+    background-color: black;
+    font-family: Impact;
+    font-size: 45px;
+}
+span {
+    color: skyblue;
+}
+
+h2 {
+    background-color: purple;
+    text-align: center;
+    font-style: italic;
+
+}
+
+h3 {
+    background-color: steelblue;
+    color: black;
+    text-align: right;
+    text-decoration: underline;
+}
